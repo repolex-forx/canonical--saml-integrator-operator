@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "saml-integrator-operator",
+  "versions": [
+    {
+      "commit": "651358e895478907d47497815f7a98a349365dab",
+      "tag": "publish-42490815285",
+      "parsed_at": "2026-11-08T15:21:42.643001+00:00"
+    }
+  ]
+}
