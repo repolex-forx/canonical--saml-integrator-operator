@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/saml-integrator-operator/commit/651358e895478907d47497815f7a98a349365dab",
       "git:hexsha": "651358e895478907d47497815f7a98a349365dab",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "saml-integrator-rev250"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "saml-integrator-rev250",
+      "repolex:parsedAt": "2026-11-08T15:21:42.573499+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/saml-integrator-operator/commit/4f2fa7f2580d2ae65c81f55aa440e088a1fa2972",
